@@ -1,0 +1,43 @@
+/* Encabezado */
+
+* {
+    margin: auto;
+}
+
+
+body {
+    background-color: #F8F0E5;
+    
+}
+
+.encabezado {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content:center;
+    border: 3px solid #005EB8;
+}
+
+
+
+.logo-principal {
+    width: 5%;
+    height: 10%;
+    margin-left: 10px;
+
+}
+
+
+/* contenido principal */
+
+.contenedor {
+    display: flex;
+    margin-top: 20px;
+}
+
+.titulo-main {
+    
+}
+
+
+
